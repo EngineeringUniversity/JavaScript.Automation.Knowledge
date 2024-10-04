@@ -9,3 +9,6 @@ Using a Browser Extension: Create a browser extension that injects your JavaScri
 # Discuss
 - https://stackoverflow.com/questions/2551067/can-we-insert-javascript-into-any-webpage-loaded-in-the-browser
 - https://stackoverflow.com/questions/67054297/how-to-add-your-own-javascript-to-another-website
+
+## Userscript
+- https://stackoverflow.com/questions/59435812/using-custom-js-file-for-external-website
